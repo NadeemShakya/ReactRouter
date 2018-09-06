@@ -5,7 +5,7 @@ We will be using the DOM-binding of react router i.e. 'react-router-dom'.
   <li>npm install -S react-router-dom</li>
 </ul>
 
-<b>Basic Components of React Router</b>
+<b>Basic Components of React Router</b><br>
 There are three basic components, they are:
 
 <ul>
