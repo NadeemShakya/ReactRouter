@@ -44,7 +44,9 @@ In above example, path = './about' matches to loaction's to : './about', so comp
 <br>
 <b>Switch</b>
 <br>
+<p>
 The <Switch> component is used to group <Route>s together.
+  </p>
 <br>
 <Switch>
   <Route exact path='/' component={Home}/>
