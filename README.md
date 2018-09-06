@@ -15,4 +15,4 @@ There are three basic components, they are:
 </ul>
 
 Get a clear understanding of these three components from React Training/ React Router's Website.
-<a href= 'https://reacttraining.com/react-router/web/guides/basic-components'> Basic Components of React Router </a>.
+<a href= 'https://reacttraining.com/react-router/web/guides/basic-components'><br> Basic Components of React Router </a>.
