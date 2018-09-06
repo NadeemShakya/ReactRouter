@@ -11,7 +11,7 @@ On our project directory i.e. Inside of React-Router in Command Prompt( For exam
 
 Your index.html file should now open with a message of - "Welcome to React Router Tutorial".
 
-<p style = 'color: #02b875' >Hurrah! The project is now being accessed using WebPack.</p>
+<p style = 'font-color: #02b875' >Hurrah! The project is now being accessed using WebPack.</p>
 
 
 
