@@ -5,7 +5,7 @@ A simple tutorial for using React-Router Version 4 which is used to route(naviga
 Here, we will see how to  route to multiple links inside of a single page web application built using React.
 </b>
 
-<span style = "display:block">
+<span style = "display:block; margin-top:25px; color:grey">
 react-router is developed and maintained by React Training and many amazing contributors.
 </span>
 
