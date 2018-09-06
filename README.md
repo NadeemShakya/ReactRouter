@@ -16,3 +16,6 @@ There are three basic components, they are:
 
 Get a clear understanding of these three components from React Training/ React Router's Website.
 <a href= 'https://reacttraining.com/react-router/web/guides/basic-components'><br> Basic Components of React Router </a>.
+
+<br><br>
+<strong>After installing and getting basic idea of react router components, now you are set to develop a single page application using React. Let's GO !</strong>
