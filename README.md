@@ -1,6 +1,6 @@
 <h1> Using WebPack to access our Project. </h1>
 
-On our project directory i.e. Inside of React-Router in Command Prompt(C:Users\ABC\ReactRouter-v4 >) :
+On our project directory i.e. Inside of React-Router in Command Prompt( For example: C:Users\ABC\ReactRouter-v4 >), hit the following commands:
 
 <ul>
   <li>npx webpack - to configure webpack and bundle our files. </li>
