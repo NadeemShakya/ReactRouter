@@ -5,8 +5,6 @@
   <li>cd ReactRouter-V4</li>
   <li>
     Get all the node modules.
-    npm install
+    <p>npm install</p>
   </li>
-
-  
 </ul>
