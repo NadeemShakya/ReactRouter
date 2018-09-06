@@ -3,6 +3,10 @@
   <li>Clone or Download the Repo.</li>
   <li>git clone https://github.com/NadeemShakya/ReactRouter-V4.git</li>
   <li>cd ReactRouter-V4</li>
-  
+  <li>
+    Get all the node modules.
+    npm install
+  </li>
+
   
 </ul>
