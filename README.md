@@ -15,7 +15,7 @@ Your index.html file should now open with a message of - "Welcome to React Route
 
 <h3>Webpack</h3> is a module bundler to bind and compile JavaScript modules. 
 Learn more about Webpack at : <a href = 'https://webpack.js.org/guides/getting-started/'>Getting Started with Webpack.</a>
-
+<br><br>
 If you have any <b>Problem Configuring Webpack </b> then watch the video by LearnCode.Academy 
 <a href = 'https://www.youtube.com/watch?v=9kJVYpOqcVU&t=478s'>Webpack Tutorial</a>
 
