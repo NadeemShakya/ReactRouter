@@ -4,6 +4,7 @@ In our project directory i.e. Inside of ReactRouter-V4 in Command Prompt( For ex
 
 <ul>
   <li><b>npx webpack </b> - to configure webpack and bundle our files. </li>
+  <li>To make sure webpack has bundled our JS files, you should see a '<b>client.min.js</b>' file added in the ./src/ directory</li>
   <li><b> npm run dev </b> - to run our project using webpack-dev-server. </li>
   <li> Check the server url for the webpack-dev-server. Mine is http://localhost:8080/</li>
   <li> Hit the url in the browser. </li>
