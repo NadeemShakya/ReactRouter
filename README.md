@@ -31,6 +31,7 @@ Here we will learn React Router Version 4 and we will use react router to route(
   </li> 
   <li> <a href = 'https://github.com/NadeemShakya/ReactRouter/compare/Step-3?expand=1'> Step: 4 - Setting up Layout.js </a></li>
   <li> <a href = 'https://github.com/NadeemShakya/ReactRouter/compare/Step-4?expand=1'> Step: 5 - Setting up Navigation.js </a></li>
+  <li> <a href = 'https://github.com/NadeemShakya/ReactRouter/compare/Step-5?expand=1'> Step: 6 - Setting up Client.js </a></li>
   
 </ul>
 
