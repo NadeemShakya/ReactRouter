@@ -29,7 +29,7 @@ Here we will learn React Router Version 4 and we will use react router to route(
     <br>
     <i>Take some time to understand these easy React Components which will be used in our applications. </i>  
   </li> 
-  <li>Setting up Layout.js</li>
+  <li> <a href = 'https://github.com/NadeemShakya/ReactRouter/compare/Step-3?expand=1'> Setting up Layout.js </a></li>
 </ul>
 
 
