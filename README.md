@@ -32,7 +32,12 @@ Here we will learn React Router Version 4 and we will use react router to route(
   <li> <a href = 'https://github.com/NadeemShakya/ReactRouter/compare/Step-3?expand=1'> Step: 4 - Setting up Layout.js </a></li>
   <li> <a href = 'https://github.com/NadeemShakya/ReactRouter/compare/Step-4?expand=1'> Step: 5 - Setting up Navigation.js </a></li>
   <li> <a href = 'https://github.com/NadeemShakya/ReactRouter/compare/Step-5?expand=1'> Step: 6 - Setting up Client.js </a></li>
-  
+  <li> Step: 7 -  Until this step you should get a simple navigation link and <b> Home 
+                  <br> <br>
+                  Welcome, this is the home section. </b> . 
+                  <br>
+                  But notice that clicking on the navigation menu only changes the URL but not the content itself in the page. We need                      to fix that.
+  </li>
 </ul>
 
 
