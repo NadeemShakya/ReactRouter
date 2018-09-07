@@ -1,11 +1,21 @@
 
 import React, { Component } from 'react';
 import ReactDOM from "react-dom";
-
+import Layout from './components/Layout';
+import Header from './components/Header';
+import {HashRouter} from 'react-router-dom';
+import Navigation from './components/Navigation';
 export default class Home extends Component {
   render() {
     return(
-      <h1>Welcome to React Router Tutorial </h1>
+      <HashRouter>
+        <div class = "mainWrapper">
+            <Header />
+            <Navigation />
+            <Layout />
+        </div>
+      </HashRouter>
+
     );
   }
 }
