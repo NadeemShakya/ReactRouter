@@ -18,6 +18,7 @@ Here we will learn React Router Version 4 and we will use react router to route(
   <a href = 'https://github.com/NadeemShakya/ReactRouter-V4/tree/Step-0' > <li> Step: 0 - Getting Seat Belts on.</li> </a>
   <a href = 'https://github.com/NadeemShakya/ReactRouter-V4/blob/Step-1/README.md'> <li> Step: 1 - Using WebPack to Open Our Project </li>   </a>
   <a href = 'https://github.com/NadeemShakya/ReactRouter-V4/blob/Step-2/README.md' > <li> Step: 2 - Setting up React-Router.</li> </a>
+  <a href = 'https://github.com/NadeemShakya/ReactRouter-V4/blob/Step-2/README.md' > <li> Step: 3 - Understanding Header.js, Archives.js, Settings.js and Home.js .</li> </a>
   
 </ul>
 
