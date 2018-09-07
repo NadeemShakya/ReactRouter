@@ -26,8 +26,9 @@ Here we will learn React Router Version 4 and we will use react router to route(
     <a href = 'https://github.com/NadeemShakya/ReactRouter/blob/master/src/js/components/Settings.js'> Settings.js </a>
     <br>
     <a href = 'https://github.com/NadeemShakya/ReactRouter/blob/master/src/js/components/Home.js'> Home.js </a>
-    
-  
+    <br>
+    <i>Take some time to understand these easy React Components which will be used in our applications. </i>  
+  </li> 
 </ul>
 
 
