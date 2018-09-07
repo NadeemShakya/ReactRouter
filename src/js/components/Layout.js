@@ -9,9 +9,9 @@ export default class Layout extends Component {
         return(
             <div class = 'mainDiv'>
                     <Switch>
-                        <Route path = '/' component = {Home}/>
-                        <Route path = '/archives' component = {Archives}/>
-                        <Route path = '/settings' component = {Settings}/>
+                        <Route exact path = '/' component = {Home}/>
+                        <Route exact path = '/archives' component = {Archives}/>
+                        <Route exac path = '/settings' component = {Settings}/>
                     </Switch>
             </div>
         );
