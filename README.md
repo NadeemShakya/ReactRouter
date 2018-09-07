@@ -47,6 +47,7 @@ Here we will learn React Router Version 4 and we will use react router to route(
     Get detailed understanding of <strong> exact path </strong> <a href = ''> HERE </a>.
    </i>
   </li>
+  <li><a href = ''> Step: 9 -  Making our single page application look <b>Beautiful</b> using CSS </a></li>
 </ul>
 
 
