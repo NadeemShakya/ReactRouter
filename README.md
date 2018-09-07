@@ -38,6 +38,15 @@ Here we will learn React Router Version 4 and we will use react router to route(
                   <br>
                   But notice that clicking on the navigation menu only changes the URL but not the content itself in the page. We need                      to fix that.
   </li>
+  
+  <li> <a href = 'https://github.com/NadeemShakya/ReactRouter/compare/Step-6?expand=1' > Step: 8 - Fixing Step 7 Problem </a> 
+  <br>
+  <i> 
+    We will be using <strong> exact path </strong> attribute in Route Component of Layout.js 
+    <br>
+    Get detailed understanding of <strong> exact path </strong> <a href = ''> HERE </a>.
+   </i>
+  </li>
 </ul>
 
 
